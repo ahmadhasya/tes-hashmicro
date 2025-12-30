@@ -30,7 +30,7 @@
               label="Product Name"
             ></v-text-field>
           </v-col>
-          <v-col lg="6" md="12">
+          <v-col lg="6" cols="12">
             <v-text-field
               prepend-inner-icon="mdi-cash"
               density="compact"
@@ -38,7 +38,7 @@
               type="number"
             ></v-text-field>
           </v-col>
-          <v-col lg="6" md="12">
+          <v-col lg="6" cols="12">
             <v-text-field
               prepend-inner-icon="mdi-cash-multiple"
               density="compact"
@@ -46,7 +46,7 @@
               type="number"
             ></v-text-field>
           </v-col>
-          <v-col lg="4" md="12">
+          <v-col lg="4" cols="12">
             <v-text-field
               prepend-inner-icon="mdi-storefront"
               density="compact"
